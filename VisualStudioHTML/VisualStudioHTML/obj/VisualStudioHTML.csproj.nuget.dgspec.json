@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\New User\\Documents\\GitHub\\VisualStudioHTML\\VisualStudioHTML\\VisualStudioHTML.csproj": {}
+    "C:\\Users\\New User\\Source\\Repos\\.NET-assignment\\VisualStudioHTML\\VisualStudioHTML\\VisualStudioHTML.csproj": {}
   },
   "projects": {
-    "C:\\Users\\New User\\Documents\\GitHub\\VisualStudioHTML\\VisualStudioHTML\\VisualStudioHTML.csproj": {
+    "C:\\Users\\New User\\Source\\Repos\\.NET-assignment\\VisualStudioHTML\\VisualStudioHTML\\VisualStudioHTML.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\New User\\Documents\\GitHub\\VisualStudioHTML\\VisualStudioHTML\\VisualStudioHTML.csproj",
+        "projectUniqueName": "C:\\Users\\New User\\Source\\Repos\\.NET-assignment\\VisualStudioHTML\\VisualStudioHTML\\VisualStudioHTML.csproj",
         "projectName": "VisualStudioHTML",
-        "projectPath": "C:\\Users\\New User\\Documents\\GitHub\\VisualStudioHTML\\VisualStudioHTML\\VisualStudioHTML.csproj",
+        "projectPath": "C:\\Users\\New User\\Source\\Repos\\.NET-assignment\\VisualStudioHTML\\VisualStudioHTML\\VisualStudioHTML.csproj",
         "packagesPath": "C:\\Users\\New User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\New User\\Documents\\GitHub\\VisualStudioHTML\\VisualStudioHTML\\obj\\",
+        "outputPath": "C:\\Users\\New User\\Source\\Repos\\.NET-assignment\\VisualStudioHTML\\VisualStudioHTML\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -77,3 +77,18 @@ body {
     background-color: antiquewhite; /* added a background and smooth the edges for our h1 with green text */
     border-radius: 15px;
 }
+
+/* styling for js animation */
+#container {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    background: yellow;
+}
+
+#animate {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background-color: red;
+}
